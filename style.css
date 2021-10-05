@@ -1,0 +1,7 @@
+body {
+	font-family:Contemporary;
+}
+@font-face {
+	font-family: "Contemporary";
+	src: url(Contemporary-Regular.ttf) format("truetype");
+}
